@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58278" started-at="2018-03-01T11:45:10Z" finished-at="2018-03-01T11:46:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58278" started-at="2018-03-01T11:45:10Z" finished-at="2018-03-01T11:46:09Z">
+      <class name="com.Capita.Adactin.testscripts.TC_02_VerifyInvalidLogin">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.Capita.Adactin.testscripts.TC_02_VerifyInvalidLogin@4c9f8c13]" name="startUp" is-config="true" duration-ms="18923" started-at="2018-03-01T17:15:10Z" finished-at="2018-03-01T17:15:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.Capita.Adactin.testscripts.TC_02_VerifyInvalidLogin@4c9f8c13]" name="testLogin" duration-ms="28710" started-at="2018-03-01T17:15:29Z" finished-at="2018-03-01T17:15:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Capita.Adactin.testscripts.TC_02_VerifyInvalidLogin@4c9f8c13]" name="tearDown" is-config="true" duration-ms="10608" started-at="2018-03-01T17:15:58Z" finished-at="2018-03-01T17:16:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Capita.Adactin.testscripts.TC_02_VerifyInvalidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
